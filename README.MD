@@ -18,14 +18,6 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -38,6 +30,11 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 <div align="center">
     <video src="output/podcast-o-codigo-dos-aneis.mp4" controls title="Podcast O Código dos Anéis"></video>
 </div>
+
+<figure class="video_container">
+  <iframe src="output/podcast-o-codigo-dos-aneis.mp4" frameborder="0" allowfullscreen="true"> 
+</iframe>
+</figure>
 
 ### **[INTRODUÇÃO]**
 
