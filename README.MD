@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/capa-o-codigo-dos-aneis.png"
     width="300"
 />
 </p>
@@ -33,7 +33,30 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+## ✨ Podcast - “O Código dos Anéis – Uma jornada épica pela interface perfeita”
+
+<div align="center">
+    <video src="output/podcast-o-codigo-dos-aneis.mp4" controls title="Podcast O Código dos Anéis"></video>
+</div>
+
+### **[INTRODUÇÃO]**
+
+Fala, galera! Vocês sabiam que a interface de um site pode ser mais poderosa do que o próprio conteúdo? Pois é! Imagina só abrir um portal com design confuso… já dá vontade de fechar na hora, né? E no episódio de hoje, a gente vai atravessar o universo do front end como verdadeiros portadores do *anel do layout perfeito*. Então prepara o fone, ajeita a cadeira e vem comigo, porque a jornada pela interface ideal… começou!
+
+### **[CURIOSIDADE 1 – CSS]**
+
+Sabia que o CSS, aquele estilo todo bonito dos sites, tem um recurso chamado **“hover”** que deixa os elementos interativos só com o passar do mouse? É tipo magia de invisibilidade ativada quando o usuário se aproxima. Com esse efeito, dá pra criar botões que brilham, mudam de cor ou até tremem como se estivessem pedindo pra serem clicados. E o melhor? Não precisa escrever encantamentos em latim — é só um comando bem simples: :hover. Fala sério, isso é ou não é feitiçaria de interface?
+
+### **[CURIOSIDADE 2 – FERRAMENTA DE FRONT END]**
+
+Agora segura essa dica de ouro dos Elfos do código: tem uma ferramenta chamada **Figma** que é o mapa da Terra Média pros designers de interface. Com ela, dá pra desenhar a tela do site sem precisar programar nada no começo. Você monta a estrutura, testa cores, fontes, e depois passa pros devs com tudo redondinho. É tipo o pergaminho secreto que guia os heróis da usabilidade. E o melhor? Dá pra usar de graça!
+
+### **[FINALIZAÇÃO]**
+
+E aí, curtiu essa jornada mágica pelo mundo do front end? Então compartilha com aquele amigo que tá começando agora no universo das interfaces e quer se tornar um verdadeiro mestre da aparência digital. Eu sou o Peter Script, e esse foi o *O Código dos Anéis* dessa semana. Até a próxima, jovem Padawan da programação visual!
+
+
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
