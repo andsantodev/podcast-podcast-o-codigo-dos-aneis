@@ -31,10 +31,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     <video src="output/podcast-o-codigo-dos-aneis.mp4" controls title="Podcast O Código dos Anéis"></video>
 </div>
 
-<figure class="video_container">
-  <iframe src="output/podcast-o-codigo-dos-aneis.mp4" frameborder="0" allowfullscreen="true"> 
-</iframe>
-</figure>
+<video width="320" height="240" controls>
+  <source src="output/podcast-o-codigo-dos-aneis.mp4" type="video/mp4">
+</video>
+
 
 ### **[INTRODUÇÃO]**
 
