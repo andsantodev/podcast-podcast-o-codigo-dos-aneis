@@ -31,11 +31,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     <video src="output/podcast-o-codigo-dos-aneis.mp4" controls title="Podcast O Código dos Anéis"></video>
 </div>
 
-<video width="320" height="240" controls>
-  <source src="output/podcast-o-codigo-dos-aneis.mp4" type="video/mp4">
-</video>
-
-
 ### **[INTRODUÇÃO]**
 
 Fala, galera! Vocês sabiam que a interface de um site pode ser mais poderosa do que o próprio conteúdo? Pois é! Imagina só abrir um portal com design confuso… já dá vontade de fechar na hora, né? E no episódio de hoje, a gente vai atravessar o universo do front end como verdadeiros portadores do *anel do layout perfeito*. Então prepara o fone, ajeita a cadeira e vem comigo, porque a jornada pela interface ideal… começou!
@@ -73,7 +68,3 @@ E aí, curtiu essa jornada mágica pelo mundo do front end? Então compartilha c
 - [Link da live no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
